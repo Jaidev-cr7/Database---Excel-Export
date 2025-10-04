@@ -1,0 +1,4 @@
+.env
+# Excel temp files
+~$*.xlsx
+node_modules/
