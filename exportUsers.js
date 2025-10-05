@@ -1,4 +1,4 @@
-require('dotenv').config();
+
 const { MongoClient } = require('mongodb');
 const ExcelJS = require('exceljs');
 
